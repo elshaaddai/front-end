@@ -1,0 +1,23 @@
+
+history js
+- js adalah 1 dari 3 core language dalam dunia web.
+- 1958 internet muncul dan digunakan secara internal
+- 1991 internet diperkenalkan scra public dan digunakan semua orang sampai saat ini
+- menggunakan internet perlu menggunakan browser.
+
+standarisasi dari js
+- js didaftarkan di ECMAScript (European computer manufacturers association)
+- nama asli dari js adalah ecma script
+
+- 2005 muncul ajax
+- dengan adanya nodejs javascript bisa jalan lagi di server
+- reactjs dibuat oleh facebook. keunggulan
+ - banyak perusahaan menggunakan reactjs
+
+
+ IIFE (Immediately Invoked Function Expression)
+      (fungsi yang dipanggil secara langsung)
+fungsi yang dapat berjalan otomatis tidak perlu panggil.
+
+- anonymous function adalah fungsi yang tidak memiliki nama. jika tidak memiliki nama harus dijalankan secara otomatis(execute)
+
